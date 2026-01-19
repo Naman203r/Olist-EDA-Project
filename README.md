@@ -1,5 +1,5 @@
 # 📊 Olist E-Commerce End-to-End Data Analysis  
-**MySQL + Python + Power BI**
+**MySQL + Power BI**
 
 ---
 
@@ -21,7 +21,6 @@ It demonstrates real-world data engineering + data analyst skills:
 - MySQL  
 - Python (pandas + SQLAlchemy)  
 - Power BI  
-- Excel (validation)  
 
 ---
 
