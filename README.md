@@ -153,7 +153,7 @@ Twelve business problems solved:
 - Interview portfolio  
 
 ## 🧩 Power BI Data Model
-- Star schema built from normalized SQL tables.
+- Snowflake schema built from normalized SQL tables.
 ![Data Model](Data_Model/Olist_Data_Model.png)
 
 ## 📊 Dashboard Preview
